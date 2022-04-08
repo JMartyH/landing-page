@@ -97,3 +97,41 @@ h1{
     font-weight: bold;
     font-size: 16px;
 }
+
+.section-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-two-header{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.section-two img{
+    width: 100px;
+    height: 100px;
+}
+
+.container-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.container-two ul{
+    width: 250px;
+}
+
+.section-two-text{
+    font-size: 18px;
+    color: #1F2937;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
