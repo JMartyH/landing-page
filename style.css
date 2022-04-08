@@ -167,3 +167,43 @@ h1{
     color: #1F2937;
     align-self: flex-end;
 }
+
+.section-four{
+    display: flex;
+    justify-content: center;
+}
+
+.container-four{
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #E5E7EB;
+    padding: 24px;
+    margin: 70px 0px;
+    width: 750px;
+    justify-content: space-evenly;
+}
+
+.container-four .section-four-right{
+    align-self: center;
+}
+
+.section-four-header{
+    margin: 0;
+}
+
+.section-four-text{
+    margin: 0;
+}
+
+.section-four button{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+    border-color: #E5E7EB;
+    border-style:solid;
+    height: 35px;
+    width: 130px;
+    font-weight: bold;
+    font-size: 16px;
+}
