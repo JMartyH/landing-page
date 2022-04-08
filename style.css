@@ -137,6 +137,33 @@ h1{
     text-align: center;
 }
 
-li{
+.container-two li{
     text-align: center;
+}
+
+.section-three{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.container-three{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    padding: 120px 0px;
+}
+
+.section-three-quote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.section-three .section-three-name{
+    font-size: 24px;
+    font-weight: 800;
+    color: #1F2937;
+    align-self: flex-end;
 }
