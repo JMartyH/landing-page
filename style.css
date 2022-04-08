@@ -210,10 +210,11 @@ h1{
 
 .footer{
     display: flex;
-    padding: 18px;
+    padding: 32px;
     justify-content: center;
     align-items: center;
     background-color: #1F2937; 
+    
 }
 
 .footer .footer-text{
